@@ -1,3 +1,4 @@
-{"cfg1":""
-, "cfg2": ""
+{
+  "cfg1":"http://javi-nuc.local:8080/logs"
+, "cfg2":"http://javi-nuc.local:8080/healthcheck"
 }

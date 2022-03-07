@@ -1,4 +1,4 @@
 {
-  "cfg1":"http://javi-nuc.local:8080/logs"
+  "cfg1":"https://m6vlxsytwg.execute-api.us-east-1.amazonaws.com/production"
 , "cfg2":"http://javi-nuc.local:8080/healthcheck"
 }

@@ -1,10 +1,10 @@
 {
-      "cfg1" : "https://m6vlxsytwg.execute-api.us-east-1.amazonaws.com/production"
-    , "cfg2" : "https://m6vlxsytwg.execute-api.us-east-1.amazonaws.com/production"
-    , "cfg3" : "120"
-    , "cfg4" : "100"
+      "cfg1" : "https://wf-backend-rest-api-k7f9i.ondigitalocean.app/logs"
+    , "cfg2" : "https://wf-backend-rest-api-k7f9i.ondigitalocean.app/logs"
+    , "cfg3" : "60"
+    , "cfg4" : "10"
     , "cfg5" : "NO"
     , "cfg6" : "SI"
     , "cfg7" : "NO"
-    , "cfg8" : "20"
+    , "cfg8" : "1"
 }

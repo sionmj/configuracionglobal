@@ -1,7 +1,7 @@
 {
       "cfg1" : "https://wf-backend-rest-api-k7f9i.ondigitalocean.app/logs"
     , "cfg2" : "https://wf-backend-rest-api-k7f9i.ondigitalocean.app/logs"
-    , "cfg3" : "60"
+    , "cfg3" : "1"
     , "cfg4" : "10"
     , "cfg5" : "NO"
     , "cfg6" : "SI"

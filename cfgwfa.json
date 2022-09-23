@@ -3,7 +3,7 @@
     , "cfg2" : "https://wf-backend-rest-api-k7f9i.ondigitalocean.app/logs"
     , "cfg3" : "10"
     , "cfg4" : "10"
-    , "cfg5" : "ERR"
+    , "cfg5" : "SI"
     , "cfg6" : "SI"
     , "cfg7" : "SI"
     , "cfg8" : "1"

@@ -1,6 +1,6 @@
 {
-      "cfg1" : "https://428a-131-255-248-125.ngrok-free.app/logs"
-    , "cfg2" : "https://428a-131-255-248-125.ngrok-free.app/logs"
+      "cfg1" : "https://b86f-131-255-248-100.ngrok-free.app/logs"
+    , "cfg2" : "https://b86f-131-255-248-100.ngrok-free.app/logs"
     , "cfg3" : "10"
     , "cfg4" : "10"
     , "cfg5" : "SI"
@@ -9,7 +9,7 @@
     , "cfg8" : "1"
     , "cfg9" : ""
     , "cfg10": "30"  
-    , "cfg11" : "https://428a-131-255-248-125.ngrok-free.app/logs"
+    , "cfg11" : "https://b86f-131-255-248-100.ngrok-free.app/logs"
     , "cfg12": "SI"
     , "cfg13": ""
     , "cfg14": "x"
